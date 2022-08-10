@@ -1,15 +1,25 @@
-# PHẦN MỀM QUẢN LÝ TÀI NGUYÊN MÔI TRƯỜNG
+# TNMT-SOFTS
 
-## Table of Content
+## Table of Things
 
-Service | Subsystem | Version | Technique Stack | README
++ Microservices
+
+Repos | Name Service | Version | Technique Stack | README
 -----|-----|-----|-----|-----
-tnmt-core-service | core | v0.1 | Laravel + PostgreSQL | 
-tnmt-tainguyennuoc-service | core | v0.1 | Laravel + PostgreSQL | 
-tnmt-datdai-service | core | v0.1 | Laravel + PostgreSQL | 
-tnmt-quantrac-service | core | v0.1 | Laravel + PostgreSQL | 
-tnmt-moitruong-service | core | v0.1 | Laravel + PostgreSQL | 
-tnmt-khoangsan-service | core | v0.1 | Laravel + PostgreSQL | 
+tnmt-core-service | core | v0.1 | Laravel + VueJS + PostgreSQL + PostGIS + Geoserver | 
+tnmt-tainguyennuoc-service | tainguyennuoc | v0.1 | | 
+tnmt-datdai-service | datdai | v0.1 | | 
+tnmt-quantrac-service | quantrac | v0.1 | | 
+tnmt-moitruong-service | moitruong | v0.1 | | 
+tnmt-khoangsan-service | khoangsan | v0.1 | | 
+... | | | | 
+
++ Related
+
+Repos | Name | Version | Technique Stack | README
+-----|-----|-----|-----|-----
+tnmt-chart | chart | v0.1 | diagrams.net | [here](https://github.com/LAHUTH/tnmt-chart/blob/main/README.md)
+tnmt-pgsql-view | pgsql-view | v0.1 | PostgreSQL + PostGIS | 
 ... | | | | 
 
 ## References
