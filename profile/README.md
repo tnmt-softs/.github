@@ -23,5 +23,13 @@ tnmt-chart | `chart` | v0.1 | diagrams.net | [:link:here](https://github.com/LAH
 tnmt-pgsql-view | `pgsql-view` | v0.1 | PostgreSQL + PostGIS | 
 ... | | | | 
 
++ Documentation and more ...
+
+Repos | Name | Version | README
+-----|-----|-----|-----
+.github | `profile` | v0.1 | 
+.docs | `docs` | v0.1 |  
+... | | | | 
+
 ## :bookmark_tabs: References
 ... :pencil::pencil::pencil:
