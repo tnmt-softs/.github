@@ -7,6 +7,7 @@
 Repos | Name Service | Version | Technique Stack | README
 -----|-----|-----|-----|-----
 tnmt-core-service | core | v0.1 | Laravel + VueJS + PostgreSQL + PostGIS + Geoserver | 
+tnmt-core-mobile-service | core-mobile | v0.1 | Flutter or React Native | 
 tnmt-tainguyennuoc-service | tainguyennuoc | v0.1 | | 
 tnmt-datdai-service | datdai | v0.1 | | 
 tnmt-quantrac-service | quantrac | v0.1 | | 
