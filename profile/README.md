@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="eternal nocturne ASCII" src="../logo-product-modified.png" width="25%" height="25%">
+</div>
+
 # <p align="center">:books::books::books: TNMT-SOFTS :books::books::books:</p>
 
 ## :newspaper: Table of Things
