@@ -36,4 +36,5 @@ Repos | Name | Version | README
 ... | | | | 
 
 ## :bookmark_tabs: References
-... :pencil::pencil::pencil:
++ Macro Architecture: https://onurdesk.com/understand-micro-and-macro-architecture-decisions-in-11-steps/
++ Micro-Frontends: https://www.youtube.com/watch?v=s_Fs4AXsTnA
