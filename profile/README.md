@@ -24,7 +24,7 @@ tnmt-khoangsan-service | `khoangsan` | v0.1 | |
 Repos | Name | Version | Technique Stack | README
 -----|-----|-----|-----|-----
 tnmt-chart | `chart` | v0.1 | diagrams.net | [:link:here](https://github.com/LAHUTH/tnmt-chart/blob/main/README.md)
-tnmt-pgsql-view | `pgsql-view` | v0.1 | PostgreSQL | 
+tnmt-pgsql | `pgsql-view` | v0.1 | PostgreSQL | [:link:here](https://github.com/LAHUTH/tnmt-pgsql/blob/main/README.md)
 ... | | | | 
 
 + Documentation and more ...
