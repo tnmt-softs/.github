@@ -38,3 +38,7 @@ Repos | Name | Version | README
 ## :bookmark_tabs: References
 + Macro Architecture: https://onurdesk.com/understand-micro-and-macro-architecture-decisions-in-11-steps/
 + Micro-Frontends: https://www.youtube.com/watch?v=s_Fs4AXsTnA
+
+## :memo:Notes
++ `tnmt-data-transfer-service`: Get information includes: (station, FTP, measurement) data from core/subsystem services
++ `tnmt-interpolation-service`: Get information includes: (measurement, value) form data-transfer service to create interpolation raster/pers day in provinces
