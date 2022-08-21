@@ -42,3 +42,6 @@ Repos | Name | Version | README
 ## :memo:Notes
 + `tnmt-data-transfer-service`: Get information includes: (station, FTP, measurement) data from core/subsystem services
 + `tnmt-interpolation-service`: Get information includes: (measurement, value) form data-transfer service to create interpolation raster/pers day in provinces
++ Change name:
+  + standard-parameter = measurement
+
