@@ -10,8 +10,6 @@
 
 Repos | Name Service | Version | Technique Stack | README
 -----|-----|-----|-----|-----
-tnmt-core-service | `core` | v0.1 | Laravel + VueJS + PostgreSQL | 
-tnmt-core-mobile-service | `core-mobile` | v0.1 | Flutter or React Native | 
 tnmt-tainguyennuoc-service | `tainguyennuoc` | v0.1 | | 
 tnmt-datdai-service | `datdai` | v0.1 | | 
 tnmt-quantrac-service | `quantrac` | v0.1 | | 
@@ -40,8 +38,7 @@ Repos | Name | Version | README
 + Micro-Frontends: https://www.youtube.com/watch?v=s_Fs4AXsTnA
 
 ## :memo:Notes
-+ `tnmt-data-transfer-service`: Get information includes: (station, FTP, measurement) data from core/subsystem services
++ `tnmt-monitoring-service`: Get information includes: (station, FTP, measurement) data from core/subsystem services
 + `tnmt-interpolation-service`: Get information includes: (measurement, value) form data-transfer service to create interpolation raster/pers day in provinces
 + Change name:
   + standard-parameter = measurement
-
