@@ -2,7 +2,7 @@
   <img alt="eternal nocturne ASCII" src="https://github.com/LAHUTH/.github/blob/main/logo-product-modified.png" width="25%" height="25%">
 </div>
 
-# <p align="center">✨ TNMT SOFTS ✨</p>
+# <p align="center">✨ Tnmt Softs ✨</p>
 
 ## :newspaper: Table of Things
 
